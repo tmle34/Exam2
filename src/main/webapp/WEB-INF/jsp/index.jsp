@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Homework 2</title>
+    <title>You Won't Believe These Viruses!</title>
     <style>
         table {
             font-family: Times New Roman, sans-serif;
@@ -24,7 +24,7 @@
 </head>
 <body>
 
-<h2>Items For Store</h2>
+<h2>Top 5 Viruses of 2020</h2>
 
 <table>
     <tr>
